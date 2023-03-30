@@ -55,3 +55,4 @@ Please note that the choice of datasets, models and manifolds remain open. Once 
 
 - [ ] Hyperbolic Space
 
+- [ ] Datasets for Graph Classification
