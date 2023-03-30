@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Thu Aug  4 14:50:21 2022
-
-@author: zhaowi
-
 Adapted from https://github.com/HazyResearch/hgcn/blob/master/utils/data_utils.py
 """
 
