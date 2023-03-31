@@ -43,7 +43,7 @@ Below are the instructions on how to run experiments on SPD and Euclidean spaces
 
 `` python runner.py --dataset cora --model gcn --manifold euclidean --classifier linear``
 
-Please note that the choice of datasets, models and manifolds remain open. Once chosen, the pipeline will load the optimal configuration of hyperparameters for the current setup in the 6-dimensional space, which can be found in the `json` folder (identified via grid-search).
+Please note that the choice of datasets, models and manifolds remains open. Once chosen, the pipeline will load the optimal configuration of hyperparameters for the current setup in the 6-dimensional space, which can be found in the `json` folder (identified via grid-search).
 
 ## Requirements
 - Python == 3.8
